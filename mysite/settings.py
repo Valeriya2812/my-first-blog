@@ -25,7 +25,7 @@ SECRET_KEY = 'cgku$oc56ec$@s*df_^-8_b1h72b(n)eev5e+6=$g#(=xz@fc&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['valeriyasblog.pythonanywhere.com']
 
 
 # Application definition
